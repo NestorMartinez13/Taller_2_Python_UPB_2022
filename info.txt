@@ -1,0 +1,16 @@
+
+
+ INFORMACIÓN MENSUAL DE VENTAS, GASTOS Y UTILIDADES DE LA EMPRESA:
+
+
+  -->Las maximas ventas se obtuvieron en Abril, con un total de: $35129000. Mientras que las menores ventas fueron en: Febrero, con un total de: $27012500.
+
+  -->Los mayores gastos fueron en Octubre, con un total de: $16942889. Mientras que los menores gastos fueron en Marzo, con un total de: $10564879.
+
+  -->Las mayores utilidades se obtuvieron en Abril, con un total de: $22926536. Mientras que las menores utilidades se obtuvieron en Enero, con un total de: $10955112.
+
+
+
+  -->Los gastos totales fueron: $161708880.
+  -->Las ventas totales fueron: $371318600.
+  -->Las utilidades sumaron un total de: $209609720.
