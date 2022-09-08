@@ -11,6 +11,13 @@
 
 
 
-  -->Los gastos totales fueron: $161708880.
-  -->Las ventas totales fueron: $371318600.
-  -->Las utilidades sumaron un total de: $209609720.
+              -->Las ventas totales fueron: $371318600.                                -->En promedio en cada mes se vendió: $30943216.
+              -->Llos gastos totales fueron: $161708880.                               -->En promedio en cada mes se gastó: $13475740.
+              -->Las utilidades sumaron un total de: $209609720.                       -->El promedio mensual de las utlidades fue de: $17467476.
+
+              -->La desviación estandar para las ventas fue: 2832700.006423004.
+              -->La desviación estandar para los gastos fue: 1778173.4639883046.
+              -->La desviación estandar para las utilidades fue: 3375441.2426310116.
+
+
+Informe hecho por ---Nestor Martinez--- at 2022-09-08 05:31:54.837048.
