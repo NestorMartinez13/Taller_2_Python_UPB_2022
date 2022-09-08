@@ -16,8 +16,13 @@ El estudiante aprende sobre listas, diccionarios, métodos de letura y escritura
 .
 .
 En el repositorio "https://github.com/NestorMartinez13/Taller_2_Python_UPB_2022.git" se encuentran los siguientes archivos:
+
 ► "sales.csv" y "expenses.csv" - Archivos base suministrados por el docente.
+
 ► "data_analysis.ipynb" - Archivo ipython notebook con los codigos ejecutados.
+
 ► "README.md" - Archivo de texto con información sobre el contenido del repositorio y objetivos de la actividad.
+
 ► "info.txt" - Archivo de texto con el informe completo generado por el programa.
+
 ► "Graficas.png" - Archivo de imagen con las gráficas solicitadas generadas por el programa.
